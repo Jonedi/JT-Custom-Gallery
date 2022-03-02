@@ -1,0 +1,3 @@
+.dashicons-jtcg{background:url(../img/bezier-20-wp.svg) 50% 50% no-repeat}
+a:hover>.dashicons-jtcg{background-image:url(../img/bezier-20-wp-hover.svg)}
+a.current>.dashicons-jtcg{background-image:url(../img/bezier-20-wp-active.svg)}
